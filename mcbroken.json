@@ -2,4269 +2,6 @@
   {
     "geometry": {
       "coordinates": [
-        "12.97866584",
-        "52.53974494",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Wustermark",
-      "street": "Alter Spandauer Weg 5a",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.54369869",
-        "52.55285589",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Berlin",
-      "street": "Bitterfelder Str. 9",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.95312132",
-        "51.52252367",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Halle",
-      "street": "Magdeburger Chaussee 10",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.5011172",
-        "50.44250716",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Neuwied",
-      "street": "Junkerstücke 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "14.31960848",
-        "51.77837178",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Cottbus",
-      "street": "Heinrich-Hertz-Str. 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "14.00861239",
-        "51.52739715",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Senftenberg",
-      "street": "Güterbahnhofstr. 33",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.96043233",
-        "48.85116352",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Deggendorf",
-      "street": "Graflingerstr. 180",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.17024133",
-        "51.92860352",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Coesfeld",
-      "street": "Dülmener Str. 106",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.53162812",
-        "52.50988256",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Berlin",
-      "street": "Alt-Friedrichsfelde 61",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.26069226",
-        "53.51878657",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Neubrandenburg",
-      "street": "Akeleiweg 3",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.6073411",
-        "51.23896228",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Lüdenscheid",
-      "street": "Brockhauser Weg 97",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.81684181",
-        "51.23463644",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Düsseldorf",
-      "street": "Grafenberger Allee 258",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.07480655",
-        "50.74237069",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Bonn",
-      "street": "Bornheimer Str. 232",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.75243904",
-        "51.16352137",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Neuss",
-      "street": "Sperberweg 22",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.40051788",
-        "51.39983146",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Leipzig",
-      "street": "Handelsstr. 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.03717776",
-        "50.37292002",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Diez",
-      "street": "Nikolaus-Otto-Str. 11",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.05891757",
-        "52.20581763",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Georgsmarienhütte",
-      "street": "Klöcknerstr. 14",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.73435782",
-        "51.294714",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Thiendorf",
-      "street": "Am Fiebig 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.53218233",
-        "50.3875431",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Schlüchtern",
-      "street": "Distelrasen",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.07626512",
-        "49.66464033",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Ochsenfurt",
-      "street": "Marktbreiter Str. 54",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.6932979",
-        "49.1030765",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Michelfeld",
-      "street": "Daimlerstr. 72",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.45071893",
-        "53.15728541",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Wittstock",
-      "street": "Hamburger Str. 7",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.69666146",
-        "52.84182818",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Finowfurt",
-      "street": "An der B167",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.9654202",
-        "49.58427635",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Erlangen",
-      "street": "Gundstr. 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.9883556",
-        "51.01279191",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Erfurt",
-      "street": "Dubliner Str. 20",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.84655999",
-        "53.47367108",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Hamburg",
-      "street": "Cuxhavener Str. 382",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.24586385",
-        "52.7656353",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Oranienburg",
-      "street": "Sachsenhausener Str. 23",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.86565988",
-        "52.02868891",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Lemgo",
-      "street": "Liemer Weg 78",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.34159333",
-        "49.38200387",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Altdorf",
-      "street": "Prackenfelser Str. 14",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.34587744",
-        "47.84415979",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Prien am Chiemsee",
-      "street": "Am Reitbach 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.10377894",
-        "49.24782615",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Roth",
-      "street": "Allersberger Str. 81",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.32711647",
-        "52.49780874",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Lingen",
-      "street": "Zum Heidhof 22",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.78220485",
-        "52.16041944",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Linthe",
-      "street": "Westfalenstr. 3",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.56475283",
-        "52.03447941",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Bielefeld",
-      "street": "Eckendorfer Str. 58",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.13063087",
-        "49.19262204",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Landau in der Pfalz",
-      "street": "Johannes-Kopp-Str. 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.21149269",
-        "51.32748024",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Nettetal",
-      "street": "An der Landwehr 8",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.80027459",
-        "50.02037488",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Dietzenbach",
-      "street": "Karl-Benz-Str. 5",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.19328113",
-        "53.81487756",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Güstrow",
-      "street": "Lindbruch 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.98824252",
-        "52.24087976",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Helmstedt",
-      "street": "Dieselstr. 18",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.8291937",
-        "53.41812257",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Parchim",
-      "street": "Am Sportplatz 17-19",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.05459648",
-        "51.18496267",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Solingen",
-      "street": "Frankfurter Damm 18",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.54708084",
-        "52.43188223",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Berlin",
-      "street": "Adlergestell 289a",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.91408758",
-        "50.84518006",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Brühl",
-      "street": "Hamburger Str. 12",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.20235349",
-        "47.69129076",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Murnau am Staffelsee",
-      "street": "Strassäcker 22",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.80632284",
-        "53.02911018",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Stuhr",
-      "street": "Bremer Str. 107",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.60660532",
-        "51.53606399",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Rheinberg",
-      "street": "An der Neuweide 33",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.66520804",
-        "51.89029993",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Lutherstadt Wittenberg",
-      "street": "Berliner Chaussee 71",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.93708015",
-        "52.3647527",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Werder",
-      "street": "Obstzüchterstr. 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.28370071",
-        "52.71068907",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Vechta",
-      "street": "Friesenstr. 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.08740031",
-        "52.38275388",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Potsdam",
-      "street": "Horstweg 53B",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.75310648",
-        "50.68893469",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Hünfeld",
-      "street": "Carl-Zeiss-Str. 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.11972977",
-        "51.15310706",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Großweitzschen",
-      "street": "Heiterer Blick 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.48254558",
-        "49.59401474",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Lampertheim",
-      "street": "Industriestr. 34 A",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.47457408",
-        "53.50354635",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Nordenham",
-      "street": "An der Sielbrücke 3",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "14.45424047",
-        "51.19029513",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Bautzen",
-      "street": "Kreckwitzer Str. 3",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.25538678",
-        "47.62169557",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Waldshut-Tiengen",
-      "street": "Von-Opel-Str. 2b",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.480833",
-        "50.584167",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Aßlar",
-      "street": "Walbergraben 20",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.1474501",
-        "48.83811298",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Stuttgart",
-      "street": "Wollinstr. 6",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.59912653",
-        "50.13651807",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Frankfurt am Main",
-      "street": "Guerickestr. 12",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.3711224",
-        "49.22748245",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Germersheim",
-      "street": "Mainzer Str.2",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.11332846",
-        "50.81842935",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Troisdorf",
-      "street": "Echternacher Str. 6",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.42391035",
-        "50.43479986",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Andernach",
-      "street": "Hans-Julius-Ahlmann-Str. 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.17470068",
-        "51.39906794",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Hattingen",
-      "street": "Kreisstr. 29a",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.11544934",
-        "49.48101396",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Nürnberg",
-      "street": "Haeberleinstr. 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.14288055",
-        "49.42768541",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Nürnberg",
-      "street": "Regensburger Str. 416",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.93341552",
-        "53.2524149",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Westerstede",
-      "street": "Ammerlandallee 16",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.16719575",
-        "48.00078595",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Memmingen",
-      "street": "Rudolf-Diesel-Str. 17",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.87256945",
-        "49.9178656",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Hallstadt",
-      "street": "Emil-Kemmer-Str. 21",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.41133949",
-        "50.58985785",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Meiningen",
-      "street": "Leipziger Str. 110",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.3797154",
-        "51.34525343",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Leipzig",
-      "street": "Willy-Brandt-Platz",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.2763376",
-        "51.12124047",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Fritzlar",
-      "street": "Alte Wildunger Str. 6",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.01838963",
-        "51.19720202",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Eschwege",
-      "street": "Landstr. 6",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.24087105",
-        "50.7338042",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Alsfeld",
-      "street": "Rasthof Pfefferhöhe",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.01645698",
-        "51.72023593",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Bad Driburg",
-      "street": "Dringenberger Str. 91",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.99765792",
-        "51.46157771",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Essen",
-      "street": "Hans-Böckler-Str. 70",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.24735744",
-        "52.23359708",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Auetal",
-      "street": "Altes Feld 16",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.69507039",
-        "49.27439405",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Rauenberg",
-      "street": "Hohenaspen 38",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.48936504",
-        "51.16522833",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Meißen",
-      "street": "Fabrikstr. 12",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.310159",
-        "51.32770594",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Leipzig",
-      "street": "Saarländer Str. 2",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.71975139",
-        "53.00423835",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Wittenberge",
-      "street": "Lenzener Chaussee 21",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.93202101",
-        "51.55304184",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Göttingen",
-      "street": "Hannoversche Str. 38",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.7459173",
-        "50.1393667",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Frankfurt am Main",
-      "street": "Borsigallee 33",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.13634074",
-        "49.26848148",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "St. Ingbert",
-      "street": "Südstr. 1/60",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.94532873",
-        "54.65674325",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Kappeln",
-      "street": "Eckernförder Str. 9b",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.12083656",
-        "53.9001714",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Brunsbüttel",
-      "street": "Olof-Palme-Allee 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.58450182",
-        "49.57743306",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Neustadt an der Aisch",
-      "street": "Karl-Eibl-Str. 41",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.6639045",
-        "49.20241725",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Cham",
-      "street": "Werner-von-Siemens-Str. 35",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.03671847",
-        "48.6412336",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Achern",
-      "street": "Am Achernsee 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.68222056",
-        "51.18330784",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Neuss",
-      "street": "Moselstr. 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.22251374",
-        "49.93638945",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Mitterteich",
-      "street": "Ludwig-Erhard-Str. 9",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.21872208",
-        "53.33915473",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Winsen",
-      "street": "Max-Planck-Str. 12",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.79744511",
-        "52.3175084",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Laatzen",
-      "street": "Karlsruher Str. 12a",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.37858504",
-        "52.04989135",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Salzgitter",
-      "street": "Am Pfingstanger 20",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.46836746",
-        "52.54706399",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Berlin",
-      "street": "Hansastr. 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.80198652",
-        "48.16281112",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Burghausen",
-      "street": "Gewerbepark Lindach C",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.1704507",
-        "48.71987453",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Neuburg a.d. Donau",
-      "street": "Am Südpark 3",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.22125363",
-        "53.6635374",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Ahrensburg",
-      "street": "Hamburger Str. 159",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.40074134",
-        "48.99408996",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Karlsruhe",
-      "street": "Bahnhofplatz 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.87830477",
-        "54.75999758",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Risum-Lindholm",
-      "street": "An der B5",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.49811345",
-        "51.26573836",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Großpösna",
-      "street": "Grimmaische Str.",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.20440962",
-        "52.65253672",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Hennigsdorf",
-      "street": "Veltenerstr. 16",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.88295676",
-        "53.30449482",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Prenzlau",
-      "street": "Angermünder Str. 7",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.68122145",
-        "48.67785359",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Landau a.d. Isar",
-      "street": "Harburger Str. 25",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.76242083",
-        "49.49544793",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Bad Mergentheim",
-      "street": "Max-Eyth-Str. 14",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.83137125",
-        "51.14506975",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Naumburg",
-      "street": "Steinkreuzweg",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.32880934",
-        "49.06799775",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Dinkelsbühl",
-      "street": "Luitpoldstr. 25",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.73446727",
-        "50.10728099",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Offenbach am Main",
-      "street": "Strahlenbergerstr. 103",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.60298815",
-        "52.31736346",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Wildau",
-      "street": "Gewerbepark 2",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.97122898",
-        "51.56157274",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Torgau",
-      "street": "Aussenring 5",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.33247318",
-        "50.89569856",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Freiberg",
-      "street": "Häuersteig 8a",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.43946016",
-        "51.88128934",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Gütersloh",
-      "street": "An der Autobahn 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.22216501",
-        "48.04907818",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Wasserburg am Inn",
-      "street": "Bernd-Motzkus-Str. 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.31183723",
-        "48.39496021",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Pocking",
-      "street": "Bgm.-Wenig-Str. 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.7434498",
-        "52.42817421",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Erkner",
-      "street": "Berliner Str. 12",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.96805904",
-        "51.65787809",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Dorsten",
-      "street": "Europaplatz 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.13695257",
-        "48.96528815",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Regen",
-      "street": "Wieshof 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.14407415",
-        "50.33987937",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Neustadt",
-      "street": "Mühlweg 2",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.05332064",
-        "50.91180091",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Köln",
-      "street": "Edmund-Rumpler-Str. 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.99814874",
-        "50.92224005",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Köln",
-      "street": "Rolshover Str. 380",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.13756959",
-        "50.91980653",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Übach-Palenberg",
-      "street": "F.-W. Raiffeisen-Str. 30",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.08808421",
-        "53.09159055",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Dannenberg",
-      "street": "Develangring 73",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.86712239",
-        "52.15995544",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Giesen",
-      "street": "Gutenbergstr. 1-3",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.58917236",
-        "51.66666845",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Salzkotten",
-      "street": "Geseker Str. 78",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.29452235",
-        "50.48143634",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Weilburg",
-      "street": "Viehweg 10",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.40871401",
-        "49.73869573",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Idar-Oberstein",
-      "street": "Fischbacher Str. 2",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.58702545",
-        "49.77083681",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Wertheim am Main",
-      "street": "Almosenberg 3",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.09639497",
-        "53.49947615",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Wittenburg",
-      "street": "Rudolf-Diesel-Str. 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.7530991",
-        "48.38137154",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Freising",
-      "street": "Clemensänger Ring 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.80575308",
-        "50.65151285",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Euskirchen",
-      "street": "Von-Siemens-Str. 6",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.95139646",
-        "51.25325781",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Mettmann",
-      "street": "Rudolf-Diesel-Str. 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.11588643",
-        "49.33749514",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Mosbach",
-      "street": "An der B 27",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.28199331",
-        "51.29171814",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Schwelm",
-      "street": "Talstr. 25",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.78353467",
-        "52.68444838",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Sulingen",
-      "street": "Friedrich-Tietjen-Str. 17",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.77143089",
-        "49.95644262",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Karlstadt",
-      "street": "Würzburger Str.1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.13854228",
-        "51.9469868",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Seesen",
-      "street": "Am Zainer Berg 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.17179826",
-        "52.84109687",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Salzwedel",
-      "street": "Magdeburger Str.7a",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.78981125",
-        "50.96228975",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Bebra",
-      "street": "Gottlieb-Daimler-Str. 6",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.77637303",
-        "48.91980862",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Niefern-Öschelbronn",
-      "street": "Enztalstr. 2",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.39605794",
-        "53.11660396",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Rotenburg",
-      "street": "Rönnebrocksweg 3/13",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.68110922",
-        "50.4361016",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Butzbach",
-      "street": "Griedeler Str. 77",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.08285899",
-        "49.44642729",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Nürnberg",
-      "street": "Bahnhofsplatz 9",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.00236766",
-        "49.82044935",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Hirschaid",
-      "street": "Industriestr. 17",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.91145175",
-        "50.9119216",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Freudenberg",
-      "street": "Bühler Höhe 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.81259351",
-        "48.57683682",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Kehl",
-      "street": "Königsbergerstr. 17",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.6383855",
-        "51.21714747",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Kaarst",
-      "street": "Neersener Str. 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.81663511",
-        "50.11873",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Mühlheim am Main",
-      "street": "Borsigstr. 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.64167726",
-        "47.89989657",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Kaufbeuren",
-      "street": "Sudetenstr. 14",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.01084721",
-        "49.10248904",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Bad Bergzabern",
-      "street": "Kapeller Str. 1g",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.38171426",
-        "53.08365536",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Papenburg",
-      "street": "Deverweg 45",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.00714869",
-        "50.97648746",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Köln",
-      "street": "Clevischer Ring",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.86353296",
-        "51.84957362",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Borken",
-      "street": "Bahnhofstr. 26",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.59776872",
-        "49.67248065",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Bensheim",
-      "street": "Wormser Str. 101",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.76849532",
-        "50.83234797",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Marburg",
-      "street": "Afföllerstr. 102",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.99047591",
-        "49.23970101",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Saarbrücken",
-      "street": "Reichsstr. 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.6085118",
-        "49.901191",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Weiterstadt",
-      "street": "Rudolf-Diesel-Str. 28",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.84608714",
-        "51.16607264",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Düsseldorf",
-      "street": "Am Trippelsberg 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.48054613",
-        "51.98009506",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Bielefeld",
-      "street": "Im Brocke 43",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.77951605",
-        "51.0601971",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Frankenberg",
-      "street": "Ruhrstr. 17",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.62602812",
-        "49.44265163",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Merzig",
-      "street": "Saarwiesenring 2",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.63635866",
-        "50.88597658",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Waldbröl",
-      "street": "Wiehler Str. 22",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.2213787",
-        "50.77893985",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Stolberg",
-      "street": "Eisenbahnstr. 11",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.14382193",
-        "53.57063775",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Hamburg",
-      "street": "Barsbütteler Str. 45",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.00389963",
-        "51.16147009",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Solingen",
-      "street": "Bahnstr. 5",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.29553413",
-        "48.82259803",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Gaggenau",
-      "street": "Murgtalstr. 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.03232417",
-        "51.14739363",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Lennestadt",
-      "street": "Elsper Str. 42",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.35895896",
-        "47.76581896",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Penzberg",
-      "street": "Seeshaupter Str. 56",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.45034665",
-        "49.55050407",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Mannheim",
-      "street": "Viernheimer Weg 23",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.78490525",
-        "49.28559583",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Bous",
-      "street": "Saarbrücker Str. 213",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.70224846",
-        "53.01178814",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Stuhr",
-      "street": "Am Schwarzen Moor 3",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.41670785",
-        "52.42844471",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Wunstorf",
-      "street": "An der Nonnenwiese 1a",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.23338811",
-        "52.52702566",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Berlin",
-      "street": "Charlottenburger Chaussee 49",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.90701465",
-        "53.58048867",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Jever",
-      "street": "Am Bullhamm 1a",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.52771636",
-        "51.6162579",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Lünen",
-      "street": "Engelswiese 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.10723336",
-        "52.60125292",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Celle",
-      "street": "Siedemeierkamp 3",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.28621312",
-        "52.5842352",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Berlin",
-      "street": "Am Borsigturm 2",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.85335561",
-        "51.47401421",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Oberhausen",
-      "street": "Willy-Brandt-Platz",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.30633556",
-        "52.50649214",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Berlin",
-      "street": "Kantstr. 111a",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.15322196",
-        "50.75986373",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Aachen",
-      "street": "Debyestr. 39",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.21680237",
-        "51.05300074",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Hückelhoven",
-      "street": "Roermonder Str. 20",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.41527594",
-        "51.37773621",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Kempen",
-      "street": "Otto-Schott-Str. 15",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.06187161",
-        "49.42813319",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Nürnberg",
-      "street": "Heisterstr. 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.96168793",
-        "49.01749771",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Weißenburg",
-      "street": "Augsburger Str. 75",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.35316635",
-        "49.5461409",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Frankenthal",
-      "street": "Wormser Str. 105",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.76614747",
-        "48.78980962",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Schwäbisch Gmünd",
-      "street": "Lorcher Str. 183",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.96905701",
-        "50.97944909",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Köln",
-      "street": "Amsterdamerstr. 236",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.37238827",
-        "51.19829325",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Radevormwald",
-      "street": "Wasserturmstr. 12",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.95049084",
-        "47.74788693",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Radolfzell am Bodensee",
-      "street": "Robert-Gerwig-Str. 27",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.53118379",
-        "48.04749597",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Grünwald",
-      "street": "Südliche Münchner Str. 34a",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.11715316",
-        "50.0032783",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Werneck",
-      "street": "Am Eschenbach 3",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.79220304",
-        "47.85640613",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Engen",
-      "street": "Jahnstr. 45",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.98098272",
-        "50.43118932",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Nidda",
-      "street": "Zeppelinstr. 3",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.79079819",
-        "51.85216199",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Wernigerode",
-      "street": "Dornbergsweg 38a",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "11.843159",
-        "52.25890304",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Burg",
-      "street": "Magdeburger Chaussee 81",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "14.2711616",
-        "53.06493576",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Schwedt",
-      "street": "Handelsstraße 1b",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.6153133",
-        "52.43074893",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Garbsen",
-      "street": "Bremer Str. 4a",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.26406784",
-        "49.70658846",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Bürgstadt",
-      "street": "Am Stadtweg 1",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.84173902",
-        "47.997508",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Freiburg",
-      "street": "Bismarck Allee 5",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.10231906",
-        "51.64472549",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Marl",
-      "street": "Freerbruchstr. 36",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.58482698",
-        "50.00166156",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Lohr am Main",
-      "street": "Jahnstr. 87",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "13.52604007",
-        "48.8084879",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Freyung",
-      "street": "Ort 38",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.90112767",
-        "51.56269276",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Werl",
-      "street": "Neuwerk 2a",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.74227284",
-        "50.19074021",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Bad Vilbel",
-      "street": "Friedberger Str. 89a",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.36328051",
-        "48.81446586",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Weinstadt",
-      "street": "Kalkofenstr. 18",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
         "6.42012116",
         "51.13992143",
         0
@@ -4278,48 +15,6 @@
       "state": null,
       "city": "Mönchengladbach",
       "street": "Adolf-Kempken-Weg 121",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.82447265",
-        "47.69823097",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Wangen",
-      "street": "Ravensburger Str. 100",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.51248624",
-        "53.91935013",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Itzehoe",
-      "street": "Am Brookhafen 6",
       "country": "DE",
       "last_checked": "Checked 30 minutes ago"
     },
@@ -4362,27 +57,6 @@
       "state": null,
       "city": "Sundern",
       "street": "Schweinsohl 2",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.08259142",
-        "48.50075852",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Langenau",
-      "street": "Magirusstr. 14",
       "country": "DE",
       "last_checked": "Checked 30 minutes ago"
     },
@@ -6064,7 +1738,7 @@
       "city": "Stuttgart",
       "street": "Aldinger Str. 76",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6085,7 +1759,7 @@
       "city": "Bergisch Gladbach",
       "street": "Richard-Zanders-Str. 5",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6127,7 +1801,7 @@
       "city": "Hagen",
       "street": "Enneper Str. 51",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6148,7 +1822,7 @@
       "city": "Berlin",
       "street": "Heerstr. 666",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6190,7 +1864,7 @@
       "city": "Mainz am Rhein",
       "street": "Bahnhofsplatz 1a",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6211,7 +1885,7 @@
       "city": "Remagen",
       "street": "Am Güterbahnhof 4-14",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6232,7 +1906,7 @@
       "city": "Pirna",
       "street": "Dresdner Str. 47",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6274,7 +1948,7 @@
       "city": "Rostock",
       "street": "Kröpeliner Str.71",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6295,7 +1969,7 @@
       "city": "Eichstätt",
       "street": "Weissenburger Str. 38",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6316,7 +1990,7 @@
       "city": "Königslutter am Elm",
       "street": "Am Mühlenhop 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6351,14 +2025,14 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
-      "dot": "broken",
+      "dot": "working",
       "state": null,
       "city": "Buchen",
       "street": "Carl-Benz-Strasse 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6379,7 +2053,7 @@
       "city": "Herzogenrath",
       "street": "Roermonder Str. 194",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6400,7 +2074,7 @@
       "city": "Horb am Neckar",
       "street": "Rauher Grund 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6421,7 +2095,7 @@
       "city": "Emstek",
       "street": "Sulzbührener Str. 3",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6442,7 +2116,7 @@
       "city": "Lehrte",
       "street": "Burgdorfer Str. 106",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6463,7 +2137,7 @@
       "city": "Plattling",
       "street": "Dr.-Walter-Bruch-Str. 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6484,7 +2158,7 @@
       "city": "Groß-Umstadt",
       "street": "Georg-August-Zinn-Str. 100a",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6505,7 +2179,7 @@
       "city": "Strausberg",
       "street": "Herrenseeallee 15a",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6526,7 +2200,7 @@
       "city": "Münster",
       "street": "Rudolf-Diesel-Str. 65a",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6547,7 +2221,7 @@
       "city": "Wesseling",
       "street": "Vorgebirgsstr. 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6568,7 +2242,7 @@
       "city": "Potsdam",
       "street": "Fritz-Zubeil-Str. 95",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6589,7 +2263,7 @@
       "city": "Simmern",
       "street": "Sonnenhof 11",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6610,7 +2284,7 @@
       "city": "Bad Kreuznach",
       "street": "Schwabenheimer Weg 68",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6631,7 +2305,7 @@
       "city": "Bad Kissingen",
       "street": "Würzburger Str. 8",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6652,7 +2326,7 @@
       "city": "Werne",
       "street": "Nordlippestr. 52",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6673,7 +2347,7 @@
       "city": "Bad Saulgau",
       "street": "Herbertinger Str. 45",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6694,7 +2368,7 @@
       "city": "Wolgast",
       "street": "Am Fuchsberg 1a",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6715,7 +2389,7 @@
       "city": "Gilching",
       "street": "Landsberger Str. 90",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6736,7 +2410,7 @@
       "city": "Egelsbach",
       "street": "Woogstr. 52",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6757,7 +2431,7 @@
       "city": "Neustadt am Rübenberge",
       "street": "Mecklenhorster Str. 13",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6778,7 +2452,7 @@
       "city": "Schwandorf",
       "street": "Am Brunnfeld 3",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6799,7 +2473,7 @@
       "city": "Bad Salzuflen",
       "street": "Rudolph-Brandes-Allee 28",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6820,7 +2494,7 @@
       "city": "Köln",
       "street": "Schildergasse 60-68",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6841,7 +2515,7 @@
       "city": "Augsburg",
       "street": "Willy-Brandt-Platz 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6862,7 +2536,7 @@
       "city": "Heppenheim",
       "street": "Lorscher Str. 53a",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6883,7 +2557,7 @@
       "city": "Landshut",
       "street": "Ludwig-Erhard-Str. 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6904,7 +2578,7 @@
       "city": "Berlin",
       "street": "Osdorferstr. 125a",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6925,7 +2599,7 @@
       "city": "Eutin",
       "street": "Röntgenstr. 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6946,7 +2620,7 @@
       "city": "Dresden",
       "street": "Hansastr. 56",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6967,7 +2641,7 @@
       "city": "Künzelsau",
       "street": "Würzburger Str. 50",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6988,7 +2662,7 @@
       "city": "Bad Dürkheim",
       "street": "Bruchstr. 2c",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7009,7 +2683,7 @@
       "city": "Werdohl",
       "street": "Gildestr. 6b",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7030,7 +2704,7 @@
       "city": "Langenhagen",
       "street": "Brüsseler Str. 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7051,7 +2725,7 @@
       "city": "Isselburg",
       "street": "Dekkers Waide 1a",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7072,7 +2746,7 @@
       "city": "Recklinghausen",
       "street": "Westring 45",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7093,7 +2767,7 @@
       "city": "Monschau",
       "street": "Am Handwerkerzentrum 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7114,7 +2788,7 @@
       "city": "Holzwickede",
       "street": "Wilhelmstr. 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7135,7 +2809,7 @@
       "city": "Osnabrück",
       "street": "Theodor-Heuss-Platz 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7156,7 +2830,7 @@
       "city": "Kammerstein",
       "street": "An der Autobahn 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7177,7 +2851,7 @@
       "city": "Florstadt",
       "street": "In der Grobach 19",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7198,7 +2872,7 @@
       "city": "Kirchheim a.d. Weinstraße",
       "street": "Rosengartenweg 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7219,7 +2893,7 @@
       "city": "Geesthacht",
       "street": "Düneberger Str. 119",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7240,7 +2914,7 @@
       "city": "Kleinostheim",
       "street": "Saaläckerstr. 2b",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7261,7 +2935,7 @@
       "city": "Fürstenwalde",
       "street": "Alte Langewahler Chaussee 3",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7282,7 +2956,7 @@
       "city": "Berlin",
       "street": "Klosterstr. 3",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7303,7 +2977,7 @@
       "city": "Eching",
       "street": "Dieselstr. 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7324,7 +2998,7 @@
       "city": "Warstein",
       "street": "Zum Puddelhammer 24",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7345,7 +3019,7 @@
       "city": "Ilsfeld",
       "street": "Porschestr. 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7366,7 +3040,7 @@
       "city": "Gerolstein",
       "street": "Brunnenstr. 6",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7387,7 +3061,7 @@
       "city": "Norden",
       "street": "Gewerbestr. 9",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7408,7 +3082,7 @@
       "city": "Feucht",
       "street": "Schwarzenbrucker Str. 4",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7429,7 +3103,7 @@
       "city": "Warendorf",
       "street": "August-Wessing-Damm 83",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7450,7 +3124,7 @@
       "city": "Berlin",
       "street": "Kurt-Schumacher-Damm 38",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7471,7 +3145,7 @@
       "city": "Hamburg",
       "street": "Kieler Str. 191-193",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7492,7 +3166,7 @@
       "city": "Oberhausen",
       "street": "Weierstr. 114",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7513,7 +3187,7 @@
       "city": "Trier",
       "street": "Zurmaiener Str. 153b",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7534,7 +3208,7 @@
       "city": "Idstein",
       "street": "Auroffer Str. 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7555,7 +3229,7 @@
       "city": "Homberg",
       "street": "Hersfelder Str. 27",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7576,7 +3250,7 @@
       "city": "Hessisch Lichtenau",
       "street": "Leipziger Str. 203",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7597,7 +3271,7 @@
       "city": "Essen",
       "street": "Stoppenberger Str. 61",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7618,7 +3292,7 @@
       "city": "Mogendorf",
       "street": "Im Reimersheck 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7639,7 +3313,7 @@
       "city": "Lörrach",
       "street": "Clara-Immerwahr-Str. 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7660,7 +3334,7 @@
       "city": "Saarlouis",
       "street": "Provinzialstr. 248",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7681,7 +3355,7 @@
       "city": "Sangerhausen",
       "street": "Am Mittelfeld 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7702,7 +3376,7 @@
       "city": "Kiel",
       "street": "Gutenbergstr. 82a",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7723,7 +3397,7 @@
       "city": "Hirschberg a.d. Bergstraße",
       "street": "Goldbeckstr. 3",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7744,7 +3418,7 @@
       "city": "Kelheim",
       "street": "Donaupark Ring 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7765,7 +3439,7 @@
       "city": "Menden",
       "street": "Hämmerstr. 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7786,7 +3460,7 @@
       "city": "Hamburg",
       "street": "Adenauer Allee 78",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7807,7 +3481,7 @@
       "city": "Darmstadt",
       "street": "Gräfenhäuser Str. 89",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7828,7 +3502,7 @@
       "city": "Ladbergen",
       "street": "Espenhof 15",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7849,7 +3523,7 @@
       "city": "Düren",
       "street": "Rudolf-Diesel-Str. 3",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7870,7 +3544,7 @@
       "city": "Lambrechtshagen",
       "street": "Alt Sievershagen 1d",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7891,7 +3565,7 @@
       "city": "Hoyerswerda",
       "street": "Lausitzer Platz 3",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7912,7 +3586,7 @@
       "city": "Unterhaching",
       "street": "Grünwalder Weg 32",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7933,7 +3607,7 @@
       "city": "Brilon",
       "street": "Möhnestr. 51",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7954,7 +3628,7 @@
       "city": "Hamm",
       "street": "Richard-Matthaei-Platz 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7975,7 +3649,7 @@
       "city": "Waldlaubersheim",
       "street": "Auf Dem Stein 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -7996,7 +3670,7 @@
       "city": "Losheim am See",
       "street": "Haagstr. 55",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8017,7 +3691,7 @@
       "city": "Darmstadt",
       "street": "Rheinstr. 69",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8038,7 +3712,7 @@
       "city": "Hamburg",
       "street": "Lüneburgerstr. 39",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8059,7 +3733,7 @@
       "city": "Dresden",
       "street": "Webergasse 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8080,7 +3754,7 @@
       "city": "Calw",
       "street": "Stuttgarter Str. 100",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8101,7 +3775,7 @@
       "city": "Linden",
       "street": "Ferniestr. 3",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8122,7 +3796,7 @@
       "city": "Goslar",
       "street": "Carl-Zeiss-Str. 4a",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8143,7 +3817,7 @@
       "city": "Oberursel",
       "street": "Hans-Mess-Str. 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8164,7 +3838,7 @@
       "city": "Hamburg",
       "street": "Paul-Sorge-Str. 8",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8185,7 +3859,7 @@
       "city": "Hamburg",
       "street": "Winsener Str. 231",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8206,7 +3880,7 @@
       "city": "Freiburg",
       "street": "Basler Str. 111-113",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8227,7 +3901,7 @@
       "city": "Reichenbach",
       "street": "Rosa-Luxemburg-Str. 56",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8248,7 +3922,7 @@
       "city": "Coburg",
       "street": "Neustadter Str. 9c",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8269,7 +3943,7 @@
       "city": "Erfurt",
       "street": "Anger 9",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8290,7 +3964,7 @@
       "city": "Goch",
       "street": "Hösterweg 9",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8311,7 +3985,7 @@
       "city": "Ahaus",
       "street": "Heeker Str. 70",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8332,7 +4006,7 @@
       "city": "Kaiserslautern",
       "street": "Opelkreisel 30",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8353,7 +4027,7 @@
       "city": "Biedenkopf",
       "street": "Georg-Kramer-Str. 16",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8374,7 +4048,7 @@
       "city": "Bremerhaven",
       "street": "Nansenstr. 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8395,7 +4069,7 @@
       "city": "Schkeuditz",
       "street": "Bierweg 6",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8416,7 +4090,7 @@
       "city": "Wolfenbüttel",
       "street": "Goslarsche Str. 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8437,7 +4111,7 @@
       "city": "Neu-Isenburg",
       "street": "Hermesstr. 4",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8458,7 +4132,7 @@
       "city": "Mannheim",
       "street": "Willy-Brandt-Platz 17",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8479,7 +4153,7 @@
       "city": "Alzenau",
       "street": "Daimlerstr. 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8500,7 +4174,7 @@
       "city": "Nieder-Olm",
       "street": "Am Giener 21",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8521,7 +4195,7 @@
       "city": "Karlsdorf-Neuthard",
       "street": "Simon-Hegele-Str. 1c",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8542,7 +4216,7 @@
       "city": "Kerpen",
       "street": "Stiftsstr. 224-254",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8563,7 +4237,7 @@
       "city": "Neu-Isenburg",
       "street": "Carl-Friedrich-Gauss-Str. 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8584,7 +4258,7 @@
       "city": "Bad Segeberg",
       "street": "Hamburger Str. 107",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8605,7 +4279,7 @@
       "city": "Bonn",
       "street": "Königswinterer Str. 100-104",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8626,7 +4300,7 @@
       "city": "Hoyerswerda",
       "street": "Kamenzer Bogen 11",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8647,7 +4321,7 @@
       "city": "Buchholz in der Nordheide",
       "street": "Harburger Str. 19",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8668,7 +4342,7 @@
       "city": "Müllheim",
       "street": "Schliengener Str. 22",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8689,7 +4363,7 @@
       "city": "Heide",
       "street": "Friedrichstr. 28",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8710,7 +4384,7 @@
       "city": "Bremen",
       "street": "Berliner Freiheit 14",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8731,7 +4405,7 @@
       "city": "Köngen",
       "street": "Christian-Eisele-Str. 11",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8752,7 +4426,7 @@
       "city": "Bietigheim-Bissingen",
       "street": "Stuttgarter Str. 65",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8773,7 +4447,7 @@
       "city": "Herzogenaurach",
       "street": "Olympiaring 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8794,7 +4468,7 @@
       "city": "Herten",
       "street": "Resser Weg 26",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8815,7 +4489,7 @@
       "city": "Tübingen",
       "street": "Reutlinger Str. 66",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8836,7 +4510,7 @@
       "city": "Saarbrücken",
       "street": "Hedwig-Stalter-Str. 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8857,7 +4531,7 @@
       "city": "Kleve",
       "street": "Hoffmannallee 19a",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8878,7 +4552,7 @@
       "city": "Erftstadt",
       "street": "Siemensstr. 37",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8899,7 +4573,7 @@
       "city": "Schwerte",
       "street": "Am Eckey 3",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8920,7 +4594,7 @@
       "city": "Titisee-Neustadt",
       "street": "Titiseestr. 13",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8941,7 +4615,7 @@
       "city": "Berlin",
       "street": "Karl-Marx-Str. 66",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8962,7 +4636,7 @@
       "city": "Berlin",
       "street": "Schnellerstr. 21",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -8983,7 +4657,7 @@
       "city": "Berlin",
       "street": "Osloer Str.",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9004,7 +4678,7 @@
       "city": "Potsdam",
       "street": "Babelsberger Str. 16",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9025,7 +4699,7 @@
       "city": "Rennerod",
       "street": "Gewerbestr. 13",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9046,7 +4720,7 @@
       "city": "München",
       "street": "Willy-Brandt-Platz 5",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9067,7 +4741,7 @@
       "city": "Wolfsburg",
       "street": "Lerchenweg 24",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9088,7 +4762,7 @@
       "city": "Lippetal",
       "street": "Strängenbach 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9109,7 +4783,7 @@
       "city": "Frankfurt am Main",
       "street": "Grosse Bockenheimer Str. 6",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9130,7 +4804,7 @@
       "city": "Bremen",
       "street": "Alter Dorfweg 30-50",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9151,7 +4825,7 @@
       "city": "Delmenhorst",
       "street": "Lange Str. 27",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9172,7 +4846,7 @@
       "city": "Bretten",
       "street": "Alexanderstr. 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9193,7 +4867,7 @@
       "city": "Wetzlar",
       "street": "Hörnsheimer Eck 2-4",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9214,7 +4888,7 @@
       "city": "Kamen",
       "street": "Kamen Karree 7",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9235,7 +4909,7 @@
       "city": "Frankfurt am Main",
       "street": "Limescorso 33",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9256,7 +4930,7 @@
       "city": "Lörrach",
       "street": "Chesterplatz 3",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9277,7 +4951,7 @@
       "city": "Wiesbaden",
       "street": "Bahnhofsplatz 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9298,7 +4972,7 @@
       "city": "Königswinter",
       "street": "Königswinterer Str. 233",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9319,7 +4993,7 @@
       "city": "Hösbach",
       "street": "Industriestr. 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9340,7 +5014,7 @@
       "city": "Düsseldorf",
       "street": "Terminal-Ring 1, Ankunft C",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9361,7 +5035,7 @@
       "city": "Mainz am Rhein",
       "street": "Haifa-Allee 4",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9382,7 +5056,7 @@
       "city": "Bottrop",
       "street": "Am Südring-Center 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9403,7 +5077,7 @@
       "city": "Euskirchen",
       "street": "Oststr. 2a",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -10579,7 +6253,7 @@
       "city": "Gießen",
       "street": "Bahnhofstr. 102",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -10684,7 +6358,7 @@
       "city": "Wuppertal",
       "street": "Uellendahler Str. 304",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -10705,7 +6379,7 @@
       "city": "Berlin",
       "street": "Weitlingstr. 22",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -10726,7 +6400,7 @@
       "city": "Michendorf",
       "street": "an der BAB 10 Michendorf Süd",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -10747,7 +6421,7 @@
       "city": "Oldenburg",
       "street": "Wilhelmshavener Heerstr. 25",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -10768,7 +6442,7 @@
       "city": "Syke",
       "street": "Herrlichkeit 9",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -10789,7 +6463,7 @@
       "city": "Fischen",
       "street": "An der Breitach 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -10810,7 +6484,7 @@
       "city": "Münchberg",
       "street": "August-Horch-Str. 10",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -10831,7 +6505,7 @@
       "city": "Ellwangen",
       "street": "Max-Eyth-Str. 8",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -10852,7 +6526,7 @@
       "city": "Grimma",
       "street": "an der BAB 14 Muldental Nord",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -10873,7 +6547,7 @@
       "city": "Bamberg",
       "street": "Ludwigstr. 6",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -10894,7 +6568,7 @@
       "city": "Wernberg-Köblitz",
       "street": "Keppler-Straße 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -10915,7 +6589,7 @@
       "city": "Berlin",
       "street": "Grossbeerenstr. 22",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -10936,7 +6610,7 @@
       "city": "Grammetal OT Eichelborn",
       "street": "Autobahnrastanlage BAB 4 / Nord",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -10957,7 +6631,7 @@
       "city": "Plech",
       "street": "Gewerbepark Schoenthal 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -10978,7 +6652,7 @@
       "city": "Bischofsheim",
       "street": "Am Schindberg 8",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -10999,7 +6673,7 @@
       "city": "Porta Westfalica",
       "street": "Zum Autohof 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11020,7 +6694,7 @@
       "city": "Lohfelden",
       "street": "Alexander-von-Humboldt-Str. 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11041,7 +6715,7 @@
       "city": "Achim",
       "street": "Margarete-Steiff-Allee 4",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11062,7 +6736,7 @@
       "city": "Haßloch",
       "street": "Richard-Sang-Str. 5",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11083,7 +6757,7 @@
       "city": "Bernau",
       "street": "Johann-Friedrich-A.-Borsig-Str. 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11104,7 +6778,7 @@
       "city": "Oberasbach",
       "street": "Rothenburger Str. 72",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11125,7 +6799,7 @@
       "city": "Worms",
       "street": "Schönauer Str. 18a",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11146,7 +6820,7 @@
       "city": "Weilerswist",
       "street": "Parkallee 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11167,7 +6841,7 @@
       "city": "Leverkusen",
       "street": "Bismarckstr. 133",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11188,7 +6862,7 @@
       "city": "Wipperfürth",
       "street": "Lenneper Str. 63",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11209,7 +6883,7 @@
       "city": "Saarbrücken",
       "street": "Eschberger Weg 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11230,7 +6904,7 @@
       "city": "Cottbus",
       "street": "Vetschauer Str. 70",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11251,7 +6925,7 @@
       "city": "Erding",
       "street": "Johann-Auer-Str. 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11272,7 +6946,7 @@
       "city": "Dissen am Teutoburger Wald",
       "street": "Versmolder Str. 10",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11293,7 +6967,7 @@
       "city": "München-Flughafen",
       "street": "Airport Center, Terminalstr. Mitte 18",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11314,7 +6988,7 @@
       "city": "Burglengenfeld",
       "street": "Regensburger Str. 66",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11335,7 +7009,7 @@
       "city": "Ungerhausen",
       "street": "Gutenbergstr. 6",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11356,7 +7030,7 @@
       "city": "Augsburg",
       "street": "Gablinger Weg 83a",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11377,7 +7051,7 @@
       "city": "Gelsenkirchen",
       "street": "Feldhauser Str. 91",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11398,7 +7072,7 @@
       "city": "Schmalkalden",
       "street": "Am Schwimmbad 9",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11419,7 +7093,7 @@
       "city": "Brunnthal",
       "street": "Zusestr. 3",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11440,7 +7114,7 @@
       "city": "Essen",
       "street": "Am Hauptbahnhof 5",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11461,7 +7135,7 @@
       "city": "Essen",
       "street": "Limbecker Platz 1a",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11482,7 +7156,7 @@
       "city": "Weiterstadt",
       "street": "Gutenbergstr. 5",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11503,7 +7177,7 @@
       "city": "Frankfurt am Main",
       "street": "Terminal 1, Ebene 0, Bereich A",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11524,7 +7198,7 @@
       "city": "Wuppertal",
       "street": "an der BAB 1 Ehrenberg West",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11545,7 +7219,7 @@
       "city": "Oberhausen",
       "street": "Zum Aquarium 7",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11566,7 +7240,7 @@
       "city": "Dormagen",
       "street": "an der BAB 57 Nievenheim West",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11587,7 +7261,7 @@
       "city": "Saarbrücken",
       "street": "Metzer Str. 123",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11608,7 +7282,7 @@
       "city": "Bremen",
       "street": "Haferwende 26",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11629,7 +7303,7 @@
       "city": "Düsseldorf",
       "street": "Friedrichstr. 129-133",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11650,7 +7324,7 @@
       "city": "Varel",
       "street": "Gertrud-Barthel-Str. 5",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11671,7 +7345,7 @@
       "city": "Weiden",
       "street": "Dr.-Seeling-Str. 15",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11692,7 +7366,7 @@
       "city": "Berlin",
       "street": "Friedrichstr. 141-142",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11713,7 +7387,7 @@
       "city": "Chemnitz",
       "street": "Am Rathaus 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11734,7 +7408,7 @@
       "city": "Kleinmachnow",
       "street": "Stolper Weg 55",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11755,7 +7429,7 @@
       "city": "Hagen",
       "street": "Hohenzollernstr. 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11776,7 +7450,7 @@
       "city": "Krunkel",
       "street": "an der BAB 3 Epgert Ost",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11797,7 +7471,7 @@
       "city": "Berlin",
       "street": "Greifswalder Str. 80",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11818,7 +7492,7 @@
       "city": "Hemer",
       "street": "Bahnhofstr. 12",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11839,7 +7513,7 @@
       "city": "Leverkusen",
       "street": "Friedrich-Ebert-Platz 7",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11860,7 +7534,7 @@
       "city": "Augsburg",
       "street": "Viktoriastr. 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11881,7 +7555,7 @@
       "city": "Rosenheim",
       "street": "Südtiroler Platz 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11902,7 +7576,7 @@
       "city": "Berlin",
       "street": "Friedrichstr. 207",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11923,7 +7597,7 @@
       "city": "Kassel",
       "street": "Göttinger Str. 21",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11944,7 +7618,7 @@
       "city": "Langenhagen",
       "street": "Flughafenstr. 4",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11965,7 +7639,7 @@
       "city": "Plauen",
       "street": "Äussere Reichenbacher Str. 64",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11986,7 +7660,7 @@
       "city": "Künzell",
       "street": "Danziger Str. 12",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12007,7 +7681,7 @@
       "city": "Steinheim",
       "street": "Lipper Tor 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12028,7 +7702,7 @@
       "city": "Essen",
       "street": "Ruhrbruchshof 10",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12049,7 +7723,7 @@
       "city": "Köln",
       "street": "Istanbulstr. 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12070,7 +7744,7 @@
       "city": "Markdorf",
       "street": "Planckstr. 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12091,7 +7765,7 @@
       "city": "Hamburg",
       "street": "Ballindamm 40",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12112,7 +7786,7 @@
       "city": "Pforzheim",
       "street": "Adolf-Seebacher-Str. 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12133,7 +7807,7 @@
       "city": "Vechelde",
       "street": "Bodelschwinghstr. 17",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12154,7 +7828,7 @@
       "city": "Berlin",
       "street": "Wendenschloßstr. 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12175,7 +7849,7 @@
       "city": "Kirchheimbolanden",
       "street": "Louis-Steitz-Straße 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12196,7 +7870,7 @@
       "city": "Ludwigshafen am Rhein",
       "street": "Mannheimer Str. 63",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12217,7 +7891,7 @@
       "city": "Zeitz",
       "street": "Geußnitzer Str. 99",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12238,7 +7912,7 @@
       "city": "Karlsruhe",
       "street": "Kaiserstr. 135",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12259,7 +7933,7 @@
       "city": "Heßdorf",
       "street": "Im Gewerbepark 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12280,7 +7954,7 @@
       "city": "Bendorf",
       "street": "Adolph-Kolping-Str. 7",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12301,7 +7975,7 @@
       "city": "Riedlingen",
       "street": "Industriestr. 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12322,7 +7996,7 @@
       "city": "Murr",
       "street": "Robert-Bosch-Str. 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12343,7 +8017,7 @@
       "city": "Krumbach",
       "street": "Michael-Faist-Str. 33",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12364,7 +8038,7 @@
       "city": "Hamburg",
       "street": "Billstedter Hauptstr. 23-25",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12385,7 +8059,7 @@
       "city": "Pentling",
       "street": "Ammerholz 5",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12406,7 +8080,7 @@
       "city": "Salzbergen",
       "street": "An der Landesgrenze 4",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12427,7 +8101,7 @@
       "city": "Bad Krozingen",
       "street": "Freiburger Str. 25",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12448,7 +8122,7 @@
       "city": "Lage",
       "street": "Stauffenbergstr. 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12469,7 +8143,7 @@
       "city": "Dortmund",
       "street": "Königswall 15",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12490,7 +8164,7 @@
       "city": "Mühldorf am Inn",
       "street": "Schorsch-Meier-Str. 3",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12511,7 +8185,7 @@
       "city": "Burgwedel",
       "street": "Kokenhorststr. 18",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12532,7 +8206,7 @@
       "city": "Oldenburg in Holstein",
       "street": "Dannauer Bruch 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12553,7 +8227,7 @@
       "city": "Magdeburg",
       "street": "Glindenberger Weg 1a",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12574,7 +8248,7 @@
       "city": "Regenstauf",
       "street": "An der Hasler Zell 4",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12595,7 +8269,7 @@
       "city": "Dortmund",
       "street": "Brandschachtstr. 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12616,7 +8290,7 @@
       "city": "Bremen",
       "street": "Europaallee 5",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12637,7 +8311,7 @@
       "city": "Grabenstätt",
       "street": "Oberwinkl 3",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12658,7 +8332,7 @@
       "city": "Neu Wulmstorf",
       "street": "Schlepelsberg 4-6",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12679,7 +8353,7 @@
       "city": "Flensburg",
       "street": "Wasserlooslück 2a",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12700,7 +8374,7 @@
       "city": "Stralsund",
       "street": "Tribseer Damm 75",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12721,7 +8395,7 @@
       "city": "Duisburg",
       "street": "Portsmouthplatz 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12742,7 +8416,7 @@
       "city": "Braunschweig",
       "street": "Willy-Brandt-Platz 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12763,7 +8437,7 @@
       "city": "Heidelberg",
       "street": "Im Breitspiel 28",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12784,7 +8458,7 @@
       "city": "Wörth am Rhein",
       "street": "Kühgrunddamm 8",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12805,7 +8479,7 @@
       "city": "Hamburg",
       "street": "Weidenbaumsweg 14",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12826,7 +8500,7 @@
       "city": "Böblingen",
       "street": "Karl-Benz-Str. 7",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12847,7 +8521,7 @@
       "city": "Marburg",
       "street": "Bahnhofstr. 33",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12868,7 +8542,7 @@
       "city": "Bad Camberg",
       "street": "Beuerbacher Landstr. 4a",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12889,7 +8563,7 @@
       "city": "Vöhringen",
       "street": "Eythstr. 14",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12910,7 +8584,7 @@
       "city": "Hennef",
       "street": "Alfred-Nobel-Str. 3",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12931,7 +8605,7 @@
       "city": "Jüchen",
       "street": "Neusser Str. 204",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12952,7 +8626,7 @@
       "city": "Bückeburg",
       "street": "Kreuzbreite 21",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12973,7 +8647,7 @@
       "city": "Dresden",
       "street": "An der Prießnitzaue 1a",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -12994,7 +8668,7 @@
       "city": "Metzingen",
       "street": "Ulmer Str. 15",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13015,7 +8689,7 @@
       "city": "Weingarten",
       "street": "Argonnenstr. 13",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13036,7 +8710,7 @@
       "city": "Türkheim",
       "street": "Schützenstr. 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13057,7 +8731,7 @@
       "city": "Friedberg",
       "street": "Winterbruckenweg 55",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13078,7 +8752,7 @@
       "city": "Frankfurt am Main",
       "street": "Terminal 1, Abflug Z",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13099,7 +8773,7 @@
       "city": "Bochum",
       "street": "Alte Wittener Str. 38",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13120,7 +8794,7 @@
       "city": "Gelsenkirchen",
       "street": "Wickingstr. 41",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13141,7 +8815,7 @@
       "city": "Rinteln",
       "street": "Konrad-Adenauer-Str. 44",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13162,7 +8836,7 @@
       "city": "Emsbüren",
       "street": "Paxtonstr. 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13183,7 +8857,7 @@
       "city": "Bad Grönenbach",
       "street": "Weissenbachstr. 4",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13204,7 +8878,7 @@
       "city": "Wermelskirchen",
       "street": "Bandwirkerstr. 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13225,7 +8899,7 @@
       "city": "Stuttgart",
       "street": "Handwerkstr. 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13246,7 +8920,7 @@
       "city": "Belm",
       "street": "Bremer Str. 75",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13267,7 +8941,7 @@
       "city": "Leipzig",
       "street": "Brühl 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13288,7 +8962,7 @@
       "city": "Niederkrüchten",
       "street": "Nollesweg 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13309,7 +8983,7 @@
       "city": "Nottuln",
       "street": "Beisenbusch 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13330,7 +9004,7 @@
       "city": "Bremen",
       "street": "Flughafenallee 17a",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13351,7 +9025,7 @@
       "city": "Aurach",
       "street": "Ansbacher Str. 44",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13372,7 +9046,7 @@
       "city": "Bad Zwischenahn",
       "street": "Pastor-Schulze-Str. 4",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13393,7 +9067,7 @@
       "city": "Aldenhoven",
       "street": "Kapuzinerstr. 40",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13414,7 +9088,7 @@
       "city": "Köln",
       "street": "Spenrather Weg 11",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13435,7 +9109,7 @@
       "city": "Giengen an der Brenz",
       "street": "Am Bühlfeld 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13456,7 +9130,7 @@
       "city": "Wörth a.d. Donau",
       "street": "Im Gewerbepark Wörth-Wiesent",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13477,7 +9151,7 @@
       "city": "Köln",
       "street": "Mailänder Passage 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13498,7 +9172,7 @@
       "city": "Ofterdingen",
       "street": "Mössinger Str. 17",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13519,7 +9193,7 @@
       "city": "Tönisvorst",
       "street": "Höhenhöfe 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13540,7 +9214,7 @@
       "city": "Braunschweig",
       "street": "Stobwasserstr. 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13561,7 +9235,7 @@
       "city": "Chemnitz",
       "street": "Dresdner Str. 43",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13582,7 +9256,7 @@
       "city": "Schwülper",
       "street": "Ruhmrischkamp 4",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13603,7 +9277,7 @@
       "city": "Würzburg",
       "street": "Bahnhofplatz 4",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13624,7 +9298,7 @@
       "city": "Grafenwöhr",
       "street": "Neue Amberger Str. 109",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13645,7 +9319,7 @@
       "city": "Bremen",
       "street": "Ag-Weser-Str. 3",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13666,7 +9340,7 @@
       "city": "Erlensee",
       "street": "Röntgenstraße 3",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13687,7 +9361,7 @@
       "city": "Neu-Anspach",
       "street": "Zeppelinstr. 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13708,7 +9382,7 @@
       "city": "Schifferstadt",
       "street": "Am Katzenbaumerschlag 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13729,7 +9403,7 @@
       "city": "Nossen",
       "street": "Augustusberg 72",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13750,7 +9424,7 @@
       "city": "Hamburg",
       "street": "Flughafenstr. 1-3",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13771,7 +9445,7 @@
       "city": "Herrenberg",
       "street": "Ohmstr. 5/1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13792,7 +9466,7 @@
       "city": "Oberhausen-Rheinhausen",
       "street": "Hoeber-und-Mandelbaum-Str. 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13813,7 +9487,7 @@
       "city": "Recklinghausen",
       "street": "Schmalkalder Str. 15",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13834,7 +9508,7 @@
       "city": "Frankfurt am Main",
       "street": "Europa-Allee 6",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13855,7 +9529,7 @@
       "city": "Oberhausen",
       "street": "Concordiastr. 32",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13876,7 +9550,7 @@
       "city": "Hildesheim",
       "street": "Albert-Einstein-Str. 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13897,7 +9571,7 @@
       "city": "Dätgen",
       "street": "Grotwisch 4",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13918,7 +9592,7 @@
       "city": "Berlin",
       "street": "Leipziger Platz 12-13",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13939,7 +9613,7 @@
       "city": "Lockwisch",
       "street": "an der BAB 20 Schönberger Land Süd",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13960,7 +9634,7 @@
       "city": "Niendorf",
       "street": "an der BAB 20 Schönberger Land Nord",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -13981,7 +9655,7 @@
       "city": "Bingen am Rhein",
       "street": "Gustav-Stresemann-Str. 2a",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14002,7 +9676,7 @@
       "city": "Harrislee",
       "street": "Industrieweg 49",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14023,7 +9697,7 @@
       "city": "Chemnitz",
       "street": "Reichsstr. 1a",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14044,7 +9718,7 @@
       "city": "Hamburg",
       "street": "Amandus-Stubbe-Str. 8",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14065,7 +9739,7 @@
       "city": "Nürtingen",
       "street": "Oberboihinger Str.",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14086,7 +9760,7 @@
       "city": "Ismaning",
       "street": "Robert-Bürkle-Str.",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14107,7 +9781,7 @@
       "city": "Leipzig",
       "street": "Paunsdorfer Allee 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14128,7 +9802,7 @@
       "city": "Augsburg",
       "street": "Fuggerstr. 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14149,7 +9823,7 @@
       "city": "Berlin",
       "street": "Prenzlauer Promenade 45",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14170,7 +9844,7 @@
       "city": "Höchstadt an der Aisch",
       "street": "Erlanger Str. 15",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14191,7 +9865,7 @@
       "city": "Fürth",
       "street": "Unterfarrnbacher Str. 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14212,7 +9886,7 @@
       "city": "Köln",
       "street": "Terminal 2 Kennedystr.",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14233,7 +9907,7 @@
       "city": "Wiesbaden",
       "street": "Dotzheimer Str. 182b",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14254,7 +9928,7 @@
       "city": "Ingolstadt",
       "street": "Münchener Str. 134",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14275,7 +9949,7 @@
       "city": "Lüdenscheid",
       "street": "Bräuckenstr. 19",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14296,7 +9970,7 @@
       "city": "Lübeck",
       "street": "Dänischburger Landstr. 81",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14317,7 +9991,7 @@
       "city": "Olching",
       "street": "Geiselbullacher Str. 3",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14338,7 +10012,7 @@
       "city": "Steinfurt",
       "street": "Carl-Benz-Str. 10",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14359,7 +10033,7 @@
       "city": "Böblingen",
       "street": "Wolfgang-Brumme-Allee 27",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14380,7 +10054,7 @@
       "city": "Stuttgart",
       "street": "Mailänder Platz 7",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14401,7 +10075,7 @@
       "city": "Ludwigsburg",
       "street": "Porschestr. 1",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14422,7 +10096,7 @@
       "city": "Reichertshofen",
       "street": "Am Auer Bach 2",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14443,7 +10117,7 @@
       "city": "Cremlingen",
       "street": "Im Moorbusche 99",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -14485,7 +10159,7 @@
       "city": "Haltern am See",
       "street": "Marler Str. 4",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -15423,9 +11097,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
-      "dot": "working",
+      "dot": "broken",
       "state": null,
       "city": "Mörsdorf",
       "street": "Teufelstalweg 9",
@@ -15451,7 +11125,7 @@
       "city": "Ober-Mörlen",
       "street": "RS Wetterau West (A5)",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15514,7 +11188,7 @@
       "city": "Bispingen",
       "street": "Im Brunautal West 1",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15535,7 +11209,7 @@
       "city": "Hollenstedt",
       "street": "Wennerstorfer Weg 47",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15556,7 +11230,7 @@
       "city": "Berg",
       "street": "Am hohen Rain 3",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15577,7 +11251,7 @@
       "city": "Niederzissen",
       "street": "An der A61",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15598,7 +11272,7 @@
       "city": "Niederzissen",
       "street": "Raststätte Brohltal West (A61)",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15619,7 +11293,7 @@
       "city": "Remscheid",
       "street": "Raststätte Remscheid Ost (A1)",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15640,7 +11314,7 @@
       "city": "Hunderdorf",
       "street": "Sollach 9",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15661,7 +11335,7 @@
       "city": "Feldkirchen",
       "street": "An der A99",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15682,7 +11356,7 @@
       "city": "Coswig (Anhalt)",
       "street": "Sandbreite 2",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15703,7 +11377,7 @@
       "city": "Velburg",
       "street": "Raststätte Jura Ost (A3)",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15724,7 +11398,7 @@
       "city": "Stralsund",
       "street": "Greifswalder Chaussee 123",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15745,7 +11419,7 @@
       "city": "Hasbergen",
       "street": "Hauptstraße 105",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15766,7 +11440,7 @@
       "city": "Nörten-Hardenberg",
       "street": "Unter dem Pferdestiege 2",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15787,7 +11461,7 @@
       "city": "Bad Urach",
       "street": "Stuttgarter Straße 149",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15808,7 +11482,7 @@
       "city": "Hollenstedt",
       "street": "Wennerstorfer Weg 49",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15829,7 +11503,7 @@
       "city": "Salzgitter",
       "street": "Schachtblick 0",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15850,7 +11524,7 @@
       "city": "Salzgitter",
       "street": "Grasweg 0",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15871,7 +11545,7 @@
       "city": "Illertissen",
       "street": "Leitschäcker 4",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15892,7 +11566,7 @@
       "city": "Überlingen",
       "street": "Abigstraße 3",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15913,7 +11587,7 @@
       "city": "Dummerstorf",
       "street": "Manfred-Roth-Straße 4",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15934,7 +11608,7 @@
       "city": "Kiefersfelden",
       "street": "A93 Ausfahrt Kiefersfelden",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15955,7 +11629,7 @@
       "city": "Herleshausen",
       "street": "RS Werratal (A4)",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15976,7 +11650,7 @@
       "city": "Haren",
       "street": "An der Autobahn 10",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -15997,7 +11671,7 @@
       "city": "Berlin",
       "street": "Frankfurter Allee 117",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -16018,7 +11692,7 @@
       "city": "Greifswald",
       "street": "Anklamer Landstr. 1",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -16039,7 +11713,7 @@
       "city": "Bremen",
       "street": "Waller Heerstr. 101",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -16060,7 +11734,7 @@
       "city": "Schwerin",
       "street": "Marienplatz 5-7",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -16081,7 +11755,7 @@
       "city": "Wismar",
       "street": "Zierower Landstr. 3",
       "country": "DE",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   }
