@@ -212,6 +212,27 @@
   {
     "geometry": {
       "coordinates": [
+        "8.69276405",
+        "49.4082865",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": null,
+      "city": "Heidelberg",
+      "street": "Rohrbacher Str. 3",
+      "country": "DE",
+      "last_checked": "Checked 10 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
         "10.10438468",
         "53.53983833",
         0
@@ -2599,7 +2620,7 @@
       "city": "Hannover",
       "street": "Schulenburger Landstr. 107",
       "country": "DE",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
@@ -2641,7 +2662,7 @@
       "city": "Würzburg",
       "street": "Marktplatz 15",
       "country": "DE",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
@@ -2683,7 +2704,7 @@
       "city": "Viersen",
       "street": "Freiheitsstr. 213",
       "country": "DE",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
@@ -2704,7 +2725,7 @@
       "city": "Erkelenz",
       "street": "Aachener Str. 73",
       "country": "DE",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
@@ -2725,7 +2746,7 @@
       "city": "Ravensburg",
       "street": "Gartenstr. 92",
       "country": "DE",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
@@ -2746,7 +2767,7 @@
       "city": "Pforzheim",
       "street": "Karlsruher Str. 87",
       "country": "DE",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
@@ -2767,7 +2788,7 @@
       "city": "Gießen",
       "street": "Schiffenberger Weg 109",
       "country": "DE",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
@@ -2788,7 +2809,7 @@
       "city": "Mönchengladbach",
       "street": "Rahracker 5",
       "country": "DE",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
@@ -2809,7 +2830,7 @@
       "city": "Krefeld",
       "street": "Diessemer Bruch 98",
       "country": "DE",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
@@ -2851,7 +2872,7 @@
       "city": "Mülheim-Kärlich",
       "street": "Industriestr. 64",
       "country": "DE",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
@@ -8164,7 +8185,7 @@
       "city": "Schwerin",
       "street": "Grabenstr. 6",
       "country": "DE",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -8185,7 +8206,7 @@
       "city": "Haldensleben",
       "street": "Johann-Gottlob-Nathusius-Str. 28",
       "country": "DE",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -8248,7 +8269,7 @@
       "city": "Görlitz",
       "street": "Am Hopfenfeld 5",
       "country": "DE",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -8269,7 +8290,7 @@
       "city": "Berlin",
       "street": "Hermannplatz 2-3",
       "country": "DE",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -8290,7 +8311,7 @@
       "city": "Offenbach am Main",
       "street": "Sprendlinger Landstr. 177",
       "country": "DE",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -8311,7 +8332,7 @@
       "city": "Lutherstadt Eisleben",
       "street": "Am Helftaer Anger 2",
       "country": "DE",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -8332,7 +8353,7 @@
       "city": "Fürth",
       "street": "Hans-Vogel-Str. 8",
       "country": "DE",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -8353,7 +8374,7 @@
       "city": "Herbolzheim",
       "street": "Breisgauallee 4",
       "country": "DE",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -8374,7 +8395,7 @@
       "city": "Hamburg",
       "street": "Hörgensweg 10",
       "country": "DE",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -8395,7 +8416,7 @@
       "city": "Porta Westfalica",
       "street": "F.-A.-Meyer-Str. 2",
       "country": "DE",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -8437,7 +8458,7 @@
       "city": "Bruchsal",
       "street": "Am Mantel 1a",
       "country": "DE",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -8479,7 +8500,7 @@
       "city": "Eching",
       "street": "Strogenweg 1",
       "country": "DE",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -12840,9 +12861,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
-      "dot": "broken",
+      "dot": "working",
       "state": null,
       "city": "Neustadt",
       "street": "Mühlweg 2",
@@ -13666,7 +13687,7 @@
       "city": "Düsseldorf",
       "street": "Am Trippelsberg 4",
       "country": "DE",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -13729,7 +13750,7 @@
       "city": "Merzig",
       "street": "Saarwiesenring 2",
       "country": "DE",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -13750,7 +13771,7 @@
       "city": "Waldbröl",
       "street": "Wiehler Str. 22",
       "country": "DE",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -13771,7 +13792,7 @@
       "city": "Stolberg",
       "street": "Eisenbahnstr. 11",
       "country": "DE",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -13792,7 +13813,7 @@
       "city": "Hamburg",
       "street": "Barsbütteler Str. 45",
       "country": "DE",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -13813,7 +13834,7 @@
       "city": "Solingen",
       "street": "Bahnstr. 5",
       "country": "DE",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -13834,7 +13855,7 @@
       "city": "Gaggenau",
       "street": "Murgtalstr. 1",
       "country": "DE",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -15276,9 +15297,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
-      "dot": "working",
+      "dot": "broken",
       "state": null,
       "city": "Quickborn",
       "street": "Auf dem Halenberg",
@@ -18916,7 +18937,7 @@
       "city": "Karlsdorf-Neuthard",
       "street": "Simon-Hegele-Str. 1c",
       "country": "DE",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -22675,7 +22696,7 @@
       "city": "Bendorf",
       "street": "Adolph-Kolping-Str. 7",
       "country": "DE",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -22738,7 +22759,7 @@
       "city": "Krumbach",
       "street": "Michael-Faist-Str. 33",
       "country": "DE",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -22780,7 +22801,7 @@
       "city": "Pentling",
       "street": "Ammerholz 5",
       "country": "DE",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -22794,9 +22815,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
-      "dot": "working",
+      "dot": "broken",
       "state": null,
       "city": "Salzbergen",
       "street": "An der Landesgrenze 4",
@@ -22843,7 +22864,7 @@
       "city": "Lage",
       "street": "Stauffenbergstr. 2",
       "country": "DE",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -22864,7 +22885,7 @@
       "city": "Dortmund",
       "street": "Königswall 15",
       "country": "DE",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
@@ -22927,7 +22948,7 @@
       "city": "Oldenburg in Holstein",
       "street": "Dannauer Bruch 1",
       "country": "DE",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -24264,9 +24285,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
-      "dot": "working",
+      "dot": "broken",
       "state": null,
       "city": "Hildesheim",
       "street": "Albert-Einstein-Str. 2",
